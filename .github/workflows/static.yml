@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SPEAKING THINGS</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>SPEAKING THINGS</h1>
+        <p class="descripcion">
+            Parchecitos en los cuales unos adolescentes filosofan, muestran diferentes conspiraciones y se cuestionan la existencia en diferentes escenarios psicodélicos para intentar crear conciencia en este mundo inconsciente.
+        </p>
+    </header>
+
+    <section class="imagenes">
+        <img src="https://scontent.feoh3-1.fna.fbcdn.net/v/t51.75761-15/482377469_18092758732544817_1750600022802928946_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cHOmYGCQz6UQ7kNvwFo8qag&_nc_oc=AdlaVVrHw6S8mIIct8_EnS4TUSrZ8Nhn924J-PfzHDEPQm6h1r-qZjaBL1-iOW-mD1lKTjAlNk6RCJGzkZqgYqD4&_nc_zt=23&_nc_ht=scontent.feoh3-1.fna&_nc_gid=Phvrf1fBC2inqs1Moqqb2w&oh=00_Afg89OvZcFp4xKeQkER66zRpT1qXh0-RULYAwk9-CUQ5aA&oe=690C92BE" alt="Imagen 1">
+        <img src="https://scontent.fpei1-1.fna.fbcdn.net/v/t51.75761-15/472109050_18086985754544817_2207707236756662349_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MZh8EGEOhYEQ7kNvwG-qgQt&_nc_oc=AdkkJvJFJRIom-k9zA9_IhJTc41pn5md0kZfNHHm5GbR4aCwwn0qoCOB_ojVhNoyHY8UTrEaJB_UZPZsFzBZtC0t&_nc_zt=23&_nc_ht=scontent.fpei1-1.fna&_nc_gid=6hm2n5s93nHZiSxzuEzVKA&oh=00_AfhyJgXSFxGJwU03pfHGklQTc143GELDaGJ8uSuLOwo7Ww&oe=690C800D" alt="Imagen 2">
+        <img src="https://scontent.feoh3-1.fna.fbcdn.net/v/t39.30808-6/472352901_122200832054198884_1116156682856890815_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dvbaR00P8qgQ7kNvwGOtOHD&_nc_oc=AdnnY97ufU2G0tZWlCjtaM1iWc91pIPOuqKg17xn84VCfoJyMNIIF65v2aMlwH9Dm1Qk7iz6D588cKE-X3LZSrca&_nc_zt=23&_nc_ht=scontent.feoh3-1.fna&_nc_gid=F-GSfPDZbp9aKpkzEIyB9w&oh=00_AfjrSLpVD8e-DBtnGcOuEGpt9bcuF9mA5qq52XsDQv7TjQ&oe=690C8453" alt="Imagen 3">
+    </section>
+
+    <div class="boton-container">
+        <a href="https://www.youtube.com/@speaking_things" target="_blank" class="boton-youtube">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo">
+            Suscribirse a Speaking Things
+        </a>
+    </div>
+
+    <section class="merch">
+        <h2>MERCH</h2>
+        <p>🖤🔥 ¡¡La primera merch oficial de SPEAKING THINGS! 🔥🖤<br>
+        Presentamos la Caja Exclusiva 🎁<br>
+        👒 1 Sombrero pesquero edición especial<br>
+        🧦 1 Par de medias con diseño único<br>
+        🎨 3 Stickers coleccionables (Dos de los stickers que llegan en la caja no los mostramos por la exclusividad de las ilustraciones)<br>
+        Todo esto por solo $80.000<br>
+        Haz parte del universo de la serie y lleva contigo un pedazo de su magia animada🪄<br>
+        📦 Unidades limitadas x20 (solo quedan 6 cajas)
+        </p>
+    </section>
+</body>
+</html>
